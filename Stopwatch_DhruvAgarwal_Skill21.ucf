@@ -1,0 +1,48 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "en[0]" LOC = J17;
+NET "en[1]" LOC = J18;
+NET "en[2]" LOC = T9;
+NET "en[3]" LOC = J14;
+NET "en[4]" LOC = P14;
+NET "en[5]" LOC = T14;
+NET "en[6]" LOC = K2;
+NET "en[7]" LOC = U13;
+
+# PlanAhead Generated IO constraints 
+
+NET "en[7]" IOSTANDARD = LVCMOS33;
+NET "en[6]" IOSTANDARD = LVCMOS33;
+NET "en[5]" IOSTANDARD = LVCMOS33;
+NET "en[4]" IOSTANDARD = LVCMOS33;
+NET "en[3]" IOSTANDARD = LVCMOS33;
+NET "en[2]" IOSTANDARD = LVCMOS33;
+NET "en[1]" IOSTANDARD = LVCMOS33;
+NET "en[0]" IOSTANDARD = LVCMOS33;
+NET "SSD[6]" IOSTANDARD = LVCMOS33;
+NET "SSD[7]" IOSTANDARD = LVCMOS33;
+# PlanAhead Generated physical constraints 
+
+NET "SSD[7]" LOC = T10;
+NET "SSD[6]" LOC = R10;
+NET "SSD[5]" LOC = K16;
+NET "clk" LOC = E3;
+NET "rst" LOC = J15;
+NET "pause" LOC = L16;
+NET "SSD[4]" LOC = K13;
+NET "SSD[3]" LOC = P15;
+NET "SSD[2]" LOC = T11;
+NET "SSD[1]" LOC = L18;
+NET "SSD[0]" LOC = H15;
+# PlanAhead Generated IO constraints 
+
+NET "SSD[5]" IOSTANDARD = LVCMOS33;
+NET "SSD[4]" IOSTANDARD = LVCMOS33;
+NET "clk" IOSTANDARD = LVCMOS33;
+NET "rst" IOSTANDARD = LVCMOS33;
+NET "pause" IOSTANDARD = LVCMOS33;
+NET "SSD[3]" IOSTANDARD = LVCMOS33;
+NET "SSD[2]" IOSTANDARD = LVCMOS33;
+NET "SSD[1]" IOSTANDARD = LVCMOS33;
+NET "SSD[0]" IOSTANDARD = LVCMOS33;
